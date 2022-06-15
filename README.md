@@ -107,3 +107,7 @@ Eine technische Dokumentation, wie zum Beispiel die Zusammensätzung und Verbind
 
 Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interaktive Soundsystem recht gut umsetzbar zu sein. Die einzelnen Kapitel werden zudem (scheinbar) nicht mit Sensor, sondern durch simplen Knopfdruck gesteuert.
 Lediglich die Einbindung des gespannten Stoffstückes und des eingenähten Leitfadens stellt mich noch vor ein Rätsel. Als Referenzprojekt scheint dies dennoch interessant zu sein.
+
+[Projektwebsite](https://minkwak.com/silence-breaker-one-survivors-story#:~:text=Silence%20Breaker%20%3A%20One%20Survivor's%20Story%20is%20an%20immersive%2C%20interactive%20audiovisual,one%20survivor%20of%20domestic%20abuse.)
+
+[Projektvideos](https://www.youtube.com/watch?v=uJUv6X8mDUM)
