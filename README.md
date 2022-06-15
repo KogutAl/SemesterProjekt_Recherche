@@ -66,3 +66,10 @@ https://github.com/entropia/tip-toi-reveng
 
 # Ähnliche Projekte
  &nbsp;
+
+---
+### **Silence Breaker: One Survivors Story**
+(*Audiovisuelles Storytelling Projekt von Min Kwak*)
+---
+
+![Gespannter Stoff mit eingenähtem Leitfähigen Faden](https://images.squarespace-cdn.com/content/v1/5c36db7296e76f097022a8db/1547368627605-WBVDC0X0UY6A8ILRA00L/IMG_1538.JPG?format=750w)
