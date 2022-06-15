@@ -53,15 +53,7 @@ Ein Vibrationssensor ist ein piezoelektrischer Sensor, der Schwingungen erfasst.
 Genaue Funktionsweise:
 [Vibrationsmesser](https://www.youtube.com/watch?v=Z0wZv8aDwlY)
 
----
-### **Anleitung und Programmierung nach Vorbild des "Tip-Toi Systems**
----
-https://github.com/entropia/tip-toi-reveng
 
- &nbsp;
-[Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing)
-
- &nbsp;
 ---
 
 # Ähnliche Projekte
