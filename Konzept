@@ -1,0 +1,46 @@
+# Interaktive Detektivarbeit
+#### (*Semesterendprojekt SoSe22 - Physical Computing*)
+ &nbsp;
+
+
+---
+### **Konzept**
+---
+Schlüpfe in die Rolle des Detektiven XY und löse den Mord, der sich innerhalb eines Raum abgespielt hat. 
+Alle Antworten befinden sich in diesem einen Zimmer. Suche nach Hinweisen und untersuche diese, um Tonspuren oder visuelle Effekte zu aktivieren, die auf die Aufklärung deuten könnten.
+Damit der Detektiv eine logische Gedankenkette bilden kann, ist es wichtig die Komponenten in der korreten Abfolge zu untersuchen.
+
+---
+### **Welche Funktion soll es geben?**
+---
+
+- Sensorsystem :
+  z.B. Kapazitiver Sensor (Berührungsloser Schalter), Fotozelle (Lichtmesseung), Piezo Rim Sensor (Vibrationsmessung)
+- Audioausgabe
+  (durch Lautsprecher)
+- Speichersystem
+  Ablage der Audiodateien? Von Pc abrufen?
+  
+ &nbsp;
+ 
+ ---
+### **Vergleiche der Sensortypen**
+---
+
+**Kapazitiver Sensor**
+Was ist ein kapazitiver Sensor? Kapazitive Annäherung Sensoren (KAS) sind berührungslose Schalter.
+Sie erfassen leitende- und nichtleitende Materialien wie Metalle, Kunststoffe, Holz, Flüssigkeiten, Pasten sowie Schüttgüter. 
+Selbst Messungen durch nichtleitende Materialien sind möglich.
+
+Genaue Funktionsweisehttps:
+[Hier mehr über das Projekt erfahren](//www.baumer.com/ch/de/service-support/funktionsweise/funktionsweise-und-technologie-von-kapazitiven-sensoren/a/Know-how_Function_Capacitive-sensors)
+---
+### **Anleitung und Programmierung nach Vorbild des "Tip-Toi Systems**
+---
+https://github.com/entropia/tip-toi-reveng
+
+ &nbsp;
+[Hier mehr über das Projekt erfahren](https://www.behance.net/gallery/17327583/Klangfarben?tracking_source=search_projects_recommended%7Cphysical%20computing)
+
+ &nbsp;
+---
