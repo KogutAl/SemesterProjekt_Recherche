@@ -94,8 +94,7 @@ Eine technische Dokumentation, wie zum Beispiel die Zusammensätzung und Verbind
 ### **Umsetzbarkeit des Projektes**
 ---
 
-Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interaktive Soundsystem recht gut umsetzbar zu sein. Die einzelnen Kapitel werden zudem (scheinbar) nicht mit Sensor, sondern durch simplen Knopfdruck gesteuert.
-Lediglich die Einbindung des gespannten Stoffstückes und des eingenähten Leitfadens stellt mich noch vor ein Rätsel. Als Referenzprojekt scheint dies dennoch interessant zu sein.
+Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interaktive Soundsystem recht gut umsetzbar zu sein. Die einzelnen Kapitel werden zudem (scheinbar) nicht mit Sensor, sondern durch simplen Knopfdruck gesteuert. Lediglich die Einbindung des gespannten Stoffstückes und des eingenähten Leitfadens stellt mich noch vor ein Rätsel. Als Referenzprojekt scheint dies dennoch interessant zu sein.
 
 [Projektwebsite](https://minkwak.com/silence-breaker-one-survivors-story#:~:text=Silence%20Breaker%20%3A%20One%20Survivor's%20Story%20is%20an%20immersive%2C%20interactive%20audiovisual,one%20survivor%20of%20domestic%20abuse.)
 
@@ -111,8 +110,6 @@ Lediglich die Einbindung des gespannten Stoffstückes und des eingenähten Leitf
 Tiptoi ist ein interaktives Lernspiel bestehend aus einem Digitalstift und einem Spielbrett, Buch oder Puzzle mit digitalem Papier. Der Stift wird auf verschiedene Stellen der bedruckten Oberfläche gehalten und erkennt am Punktraster des OID, welche Stelle angetippt wurde.
 Das Projekt befasst sich mit einer Analyse des Tiptoi-Stiftes, wie die Zusammensetzung des einzelenen Elemente und die Programmierung dieser.
 Beschreibung der Projektbeteiligten :"The current status is that we understood most of the file format (see the GME file format specification). We provide a tool that allows you to dissect these files. The tool can also be used to generate completely new files from scratch; see below for details."
-
----
 
 ---
 ### **Ähnlichkeiten & Unterschiede im Vergleich meines Konzeptes**
