@@ -53,12 +53,10 @@ Ein Vibrationssensor ist ein piezoelektrischer Sensor, der Schwingungen erfasst.
 Genaue Funktionsweise:
 [Vibrationsmesser](https://www.youtube.com/watch?v=Z0wZv8aDwlY)
 
-
+ &nbsp;
 ---
-
 # Ähnliche Projekte
  &nbsp;
-
 ---
 ### **Silence Breaker: One Survivors Story** (*Audiovisuelles Storytelling Projekt von Min Kwak*)
 ---
