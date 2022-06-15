@@ -28,12 +28,14 @@ Damit der Detektiv eine logische Gedankenkette bilden kann, ist es wichtig die K
 ---
 
 **Kapazitiver Sensor**
+
 Was ist ein kapazitiver Sensor? Kapazitive Annäherung Sensoren (KAS) sind berührungslose Schalter.
 Sie erfassen leitende- und nichtleitende Materialien wie Metalle, Kunststoffe, Holz, Flüssigkeiten, Pasten sowie Schüttgüter. 
 Selbst Messungen durch nichtleitende Materialien sind möglich.
 
-Genaue Funktionsweisehttps:
-[Hier mehr über das Projekt erfahren](//www.baumer.com/ch/de/service-support/funktionsweise/funktionsweise-und-technologie-von-kapazitiven-sensoren/a/Know-how_Function_Capacitive-sensors)
+Genaue Funktionsweise:
+[Kapazitiver Sensor](//www.baumer.com/ch/de/service-support/funktionsweise/funktionsweise-und-technologie-von-kapazitiven-sensoren/a/Know-how_Function_Capacitive-sensors)
+
 ---
 ### **Anleitung und Programmierung nach Vorbild des "Tip-Toi Systems**
 ---
