@@ -11,7 +11,7 @@ Alle Antworten befinden sich in diesem einen Zimmer. Suche nach Hinweisen und un
 Damit der Detektiv eine logische Gedankenkette bilden kann, ist es wichtig die Komponenten in der korreten Abfolge zu untersuchen.
 
 ---
-### **Welche Funktion soll es geben?**
+### **Welche Funktionen soll es geben?**
 ---
 
 - Sensorsystem :
@@ -68,8 +68,7 @@ https://github.com/entropia/tip-toi-reveng
  &nbsp;
 
 ---
-### **Silence Breaker: One Survivors Story**
-####(*Audiovisuelles Storytelling Projekt von Min Kwak*)
+### **Silence Breaker: One Survivors Story** (*Audiovisuelles Storytelling Projekt von Min Kwak*)
 ---
 
 ![Gespannter Stoff mit eingenähtem Leitfähigen Faden](https://images.squarespace-cdn.com/content/v1/5c36db7296e76f097022a8db/1547368627605-WBVDC0X0UY6A8ILRA00L/IMG_1538.JPG?format=750w)
@@ -111,3 +110,7 @@ Lediglich die Einbindung des gespannten Stoffstückes und des eingenähten Leitf
 [Projektwebsite](https://minkwak.com/silence-breaker-one-survivors-story#:~:text=Silence%20Breaker%20%3A%20One%20Survivor's%20Story%20is%20an%20immersive%2C%20interactive%20audiovisual,one%20survivor%20of%20domestic%20abuse.)
 
 [Projektvideos](https://www.youtube.com/watch?v=uJUv6X8mDUM)
+
+---
+### **Silence Breaker: One Survivors Story** (*Audiovisuelles Storytelling Projekt von Min Kwak*)
+---
