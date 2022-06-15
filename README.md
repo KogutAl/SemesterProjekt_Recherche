@@ -29,12 +29,29 @@ Damit der Detektiv eine logische Gedankenkette bilden kann, ist es wichtig die K
 
 **Kapazitiver Sensor**
 
-Was ist ein kapazitiver Sensor? Kapazitive Annäherung Sensoren (KAS) sind berührungslose Schalter.
+Was ist ein kapazitiver Sensor? 
+Kapazitive Annäherung Sensoren (KAS) sind berührungslose Schalter.
 Sie erfassen leitende- und nichtleitende Materialien wie Metalle, Kunststoffe, Holz, Flüssigkeiten, Pasten sowie Schüttgüter. 
 Selbst Messungen durch nichtleitende Materialien sind möglich.
 
 Genaue Funktionsweise:
 [Kapazitiver Sensor](//www.baumer.com/ch/de/service-support/funktionsweise/funktionsweise-und-technologie-von-kapazitiven-sensoren/a/Know-how_Function_Capacitive-sensors)
+
+**Fotozelle**
+
+Was macht eine Fotozelle?
+Fällt Licht in die Fotozelle, dann löst es aus der Oberfläche der Katode infolge Fotoemission Elektronen heraus (lichtelektrischer Effekt, Fotoeffekt). Diese wandern zur positiv geladenen Anode und werden von ihr aus der Röhre abgesaugt.
+
+Genaue Funktionsweise:
+[Fotozelle](https://www.lernhelfer.de/schuelerlexikon/physik/artikel/fotozelle)
+
+
+**Vibrationssensor**
+
+Ein Vibrationssensor ist ein piezoelektrischer Sensor, der Schwingungen erfasst. Sie setzen ihn ein, um damit Beschleunigungen, Geschwindigkeiten oder reguläre Schwingungen zu messen. Vibrationssensoren zeigen Ihnen an, wann Sie Ihre Maschinen warten lassen müssen.
+
+Genaue Funktionsweise:
+[Vibrationsmesser](https://www.youtube.com/watch?v=Z0wZv8aDwlY)
 
 ---
 ### **Anleitung und Programmierung nach Vorbild des "Tip-Toi Systems**
