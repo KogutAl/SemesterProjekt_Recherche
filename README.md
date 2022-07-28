@@ -123,9 +123,11 @@ Beschreibung der Projektbeteiligten :"The current status is that we understood m
 
 Auf der einen Seite wird das Output der Story versimpelt, da diese primär durch das Berühren durch Stellen eines Bilderbuches stattfinden.
 
+
 **Übereinstimmungen**
 
 Das Grundprinzip ist jedoch das gleiche, da es durch die Aktivierung von Sensoren eine Tonspur abspielt.
+
 ---
 ### **Dokumentation - Gut & Schlecht**
 ---
