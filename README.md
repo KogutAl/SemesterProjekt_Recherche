@@ -66,7 +66,11 @@ Genaue Funktionsweise:
 ---
 ### **Konzept**
 ---
-Silence Breaker : One Survivor’s Story is an immersive, interactive audiovisual experience based on a true story of one survivor of domestic abuse. The story has 4 sections, and each section is narrated in 4 visual, virtual spaces of the survivor’s house, which was built based on the place where domestic abuse was actually happened. Audio of each section of story will be played through installed fabric speaker by touching woman’s silhouette in order. The voice is a real voice of this survivor, and it was recorded directly. Sound contains ordinary domestic noise in order to give realistic sense. Audience can experience this story though multiple senses, and follow how the survivor has been suffered and finally received freedom.
+
+"Silence Breaker : One Survivor’s Story" ist eine immersive, interaktive audiovisuelle Erfahrung basierend auf der wahren Geschichte eines Opfers von häuslicher Gewalt.
+Die Geschichte hat 4 Sektionen, welche jeweils mit 4 visuell, virtuellen Räumen innerhalb des Opferhauses erfahren werden kann. Das Haus wurde nach Vorbild der Räume gebaut, in der die häusliche Misshandlung stattfand.
+Die Audioaufnahmen jeder dieser Sektion werden durch angebrachte Lautpsrecher abgespielt, indem die Silhouette der Frau in einer bestimmten Reihenfolge berührt wird.
+Die Erzählerstimme stammt von dem Gewaltopfer selbst und die abgespielten Sounds behinhalten übliche Geräusche. die bei Gewalttaten aufkommen, um dem Zuhörer einen möglichst realitätsnahen Einblick zu ermöglichen.Zuhörer erfahren die Geschichte über mehrere Sinne und verfolgen das Leid des Opfers, als auch den Moment der lang ersehnten Freiheit.
 
 ---
 ### **Ähnlichkeiten & Unterschiede im Vergleich meines Konzeptes**
