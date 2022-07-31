@@ -146,10 +146,13 @@ Die Umsetzung scheint mir mit diesem Prinzip sehr machbar und somit realistisch 
 [Git-Hub Dokumentation](https://github.com/entropia/tip-toi-reveng)
  &nbsp;
  
+ 
 ---
-# RGB Sensor Project
-#### (*Ein Projekt von User "thinklearndo"*)
- &nbsp;
+# Alternatives Projekt - RGB Sensor
+#### (*Ein Projekt von User "thinklearndo"*) 
+&nbsp;
+---
+
 
 ![Sensor und RGB Stern](https://cdn-blog.adafruit.com/uploads/2022/07/Untitledx-58.png)
 
