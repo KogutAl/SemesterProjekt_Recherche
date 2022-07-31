@@ -106,7 +106,7 @@ Eine technische Dokumentation, wie zum Beispiel die Zusammensätzung und Verbind
 ### **Umsetzbarkeit des Projektes**
 ---
 
-Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interaktive Soundsystem recht gut umsetzbar zu sein. Die einzelnen Kapitel werden zudem (scheinbar) nicht mit Sensor, sondern durch simplen Knopfdruck gesteuert. Lediglich die Einbindung des gespannten Stoffstückes und des eingenähten Leitfadens stellt mich noch vor ein Rätsel. Als Referenzprojekt scheint dies dennoch interessant zu sein.
+Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interaktive Soundsystem umsetzbar genug zu sein. Die einzelnen Kapitel werden zudem (scheinbar) nicht mit Sensor, sondern durch simplen Knopfdruck gesteuert. Lediglich die Einbindung des gespannten Stoffstückes und des eingenähten Leitfadens stellt mich noch vor ein Rätsel. Als Referenzprojekt scheint dies dennoch interessant zu sein.
 
 [Projektwebsite](https://minkwak.com/silence-breaker-one-survivors-story#:~:text=Silence%20Breaker%20%3A%20One%20Survivor's%20Story%20is%20an%20immersive%2C%20interactive%20audiovisual,one%20survivor%20of%20domestic%20abuse.)
 
@@ -143,7 +143,7 @@ Auf der einen Seite wird das Output der Story versimpelt, da diese primär durch
 
 **Übereinstimmungen**
 
-Das Grundprinzip ist jedoch das gleiche, da es durch die Aktivierung von Sensoren eine Tonspur abspielt.
+Lediglich die Grundidee ist die Gleiche, da es durch die Aktivierung von Sensoren eine Tonspur abspielt.
 
  &nbsp;
  
@@ -151,8 +151,8 @@ Das Grundprinzip ist jedoch das gleiche, da es durch die Aktivierung von Sensore
 ### **Dokumentation - Gut & Schlecht**
 ---
 
-Dank der Dokumentation einer Hobby-Enthusiasten kann ich mich auch mit der Zusammensetzung des Codes befassen. 
-Der einzige Nachteil ist, dass dies keine offiziellen Daten der Firma Ravensburger sind und diese eventuell unklar sein könnten oder in der Funktion abweichen.
+Dank der Dokumentation einer Hobby-Enthusiasten kann man sich mit der Zusammensetzung des Codes befassen.
+Allerdings sind dies keine offiziellen Daten der Firma Ravensburger und scheinen für Einsteiger unklar zu sein und könnten sogar in der ursprünglichen Funktion des Stiftes abweichen.
 
  &nbsp;
  
@@ -160,7 +160,7 @@ Der einzige Nachteil ist, dass dies keine offiziellen Daten der Firma Ravensburg
 ### **Umsetzbarkeit des Projektes**
 ---
 
-Die Umsetzung scheint mir mit diesem Prinzip sehr machbar und somit realistisch zu sein. Ich werde ich höchstwarscheinlich sehr viel mit dem öffentlich zur Verfügung gestellten Codes auf Git-Hub auseinandersetzen.
+Der Aufbau und die Codierung dieses Projektes scheint mir nicht ganz ersichtlich und mach das Nachbauen unnötig kompliziert und chaotisch.
 
  &nbsp;
 
@@ -198,7 +198,6 @@ Ein auf Distanz basierendes Farbwechsel-Projekt. Drei Sonar Sensoren messen den 
 
  &nbsp;
 
- 
 ---
 ### **Schaltplan und Verbindung**
 ---
@@ -222,5 +221,38 @@ Insert ws2812b rgb through top square hole in case and use glue gun to glue it t
 nbsp;
 
 [Eine ausführliche Git-Doku](https://github.com/thinklearndo/rgb_distance)
+
  &nbsp;
  
+ ---
+### **Ähnlichkeiten & Unterschiede im Vergleich meines Konzeptes**
+---
+
+**Unterschiede**
+
+Hier misst der kapazitive Sensor die Distanz, was ich zu Beginn auch für mein Projekt verwenden wollte, mich allerdings für einen simple Schaltung entschieden habe, bei der nur überprüft werden muss, ob eine Berührung vorhanden ist oder nicht.
+Desweiteren erfolgt hier nach der Messung der Distanz die Ausgabe von RGB Farben über die eingebauten LEDs. Dies sind Komponenten, die ich in meinem Projekt nicht verbauen möchte.
+
+
+**Übereinstimmungen**
+
+Dies ist ein Projekt, das meinem Vorhaben, bezüglich des Aufwandes und meinem Zeil näher kommt als die vorherigen Beispiele. Mit der Messung eines Reizes durch Sensoren und die Übermittlung von Daten und eine darauf folgende Ausgabe des Arduionos erfolgen.
+
+ &nbsp;
+ 
+---
+### **Dokumentation - Gut & Schlecht**
+---
+
+Von der Dokumenation dieses Projektes bin ich begeistert. So sehr, dass ich sehr versucht bin, dieses Projekt dennoch in der Zukunft umzusetzen. 
+Alles ist fein säuberlich und verständlich dokumentiert - die Komponenten, der 3-D Druck + Pläne, die Verbindung der Komponenten und der verwendete Code.
+
+ &nbsp;
+ 
+---
+### **Umsetzbarkeit des Projektes**
+---
+
+Aufgrund der Kleinkalibrigkeit sowohl in Material- als auch Aufwandskosten, würde ich dieses Projekt als sehr gut umsetzbar einstufen.
+
+ &nbsp;
