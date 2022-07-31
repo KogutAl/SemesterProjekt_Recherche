@@ -9,7 +9,7 @@
 Schlüpfe in die Rolle des Detektiven XY und löse den Mord, der sich innerhalb eines Raum abgespielt hat. 
 Alle Antworten befinden sich in diesem einen Zimmer. Suche nach Hinweisen und untersuche diese, um Tonspuren oder visuelle Effekte zu aktivieren, die auf die Aufklärung deuten könnten.
 Damit der Detektiv eine logische Gedankenkette bilden kann, ist es wichtig die Komponenten in der korreten Abfolge zu untersuchen.
-
+ &nbsp;
 ---
 ### **Welche Funktionen soll es geben?**
 ---
@@ -72,7 +72,7 @@ Genaue Funktionsweise:
 Die Geschichte hat 4 Sektionen, welche jeweils mit 4 visuell, virtuellen Räumen innerhalb des Opferhauses erfahren werden kann. Das Haus wurde nach Vorbild der Räume gebaut, in der die häusliche Misshandlung stattfand.
 Die Audioaufnahmen jeder dieser Sektion werden durch angebrachte Lautpsrecher abgespielt, indem die Silhouette der Frau in einer bestimmten Reihenfolge berührt wird.
 Die Erzählerstimme stammt von dem Gewaltopfer selbst und die abgespielten Sounds behinhalten übliche Geräusche. die bei Gewalttaten aufkommen, um dem Zuhörer einen möglichst realitätsnahen Einblick zu ermöglichen.Zuhörer erfahren die Geschichte über mehrere Sinne und verfolgen das Leid des Opfers, als auch den Moment der lang ersehnten Freiheit.
-
+ &nbsp;
 ---
 ### **Ähnlichkeiten & Unterschiede im Vergleich meines Konzeptes**
 ---
@@ -94,7 +94,7 @@ Die Kreatorin Min Kwak hat sowohl ein paar Videos der Nutzung, sowie eine Vorste
 Allerdings werden in den Videos lediglich die Nutzung veranschaulicht und die Website dokumentiert das technische Vorgehen sehr oberflächlich und dient wohl eher nur um Interessenten auf das Projekt aufmerksam zu machen. 
 Eine technische Dokumentation, wie zum Beispiel die Zusammensätzung und Verbindung der verwendeten Komponenten, sowie die Programmierung werden komplett ausgelassen.
 
-
+ &nbsp;
 ---
 ### **Umsetzbarkeit des Projektes**
 ---
@@ -104,7 +104,7 @@ Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interakt
 [Projektwebsite](https://minkwak.com/silence-breaker-one-survivors-story#:~:text=Silence%20Breaker%20%3A%20One%20Survivor's%20Story%20is%20an%20immersive%2C%20interactive%20audiovisual,one%20survivor%20of%20domestic%20abuse.)
 
 [Projektvideos](https://www.youtube.com/watch?v=uJUv6X8mDUM)
-
+ &nbsp;
 ---
 ### **Nutzung des Tiptoi-Systems** (*Hobbyrecherche auf Github*)
 ---
@@ -119,7 +119,7 @@ Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interakt
 Tiptoi ist ein interaktives Lernspiel bestehend aus einem Digitalstift und einem Spielbrett, Buch oder Puzzle mit digitalem Papier. Der Stift wird auf verschiedene Stellen der bedruckten Oberfläche gehalten und erkennt am Punktraster des OID, welche Stelle angetippt wurde.
 Das Projekt befasst sich mit einer Analyse des Tiptoi-Stiftes, wie die Zusammensetzung des einzelenen Elemente und die Programmierung dieser.
 Beschreibung der Projektbeteiligten :"The current status is that we understood most of the file format (see the GME file format specification). We provide a tool that allows you to dissect these files. The tool can also be used to generate completely new files from scratch; see below for details."
-
+ &nbsp;
 ---
 ### **Ähnlichkeiten & Unterschiede im Vergleich meines Konzeptes**
 ---
@@ -140,7 +140,7 @@ Das Grundprinzip ist jedoch das gleiche, da es durch die Aktivierung von Sensore
 Dank der Dokumentation einer Hobby-Enthusiasten kann ich mich auch mit der Zusammensetzung des Codes befassen. 
 Der einzige Nachteil ist, dass dies keine offiziellen Daten der Firma Ravensburger sind und diese eventuell unklar sein könnten oder in der Funktion abweichen.
 
-
+ &nbsp;
 ---
 ### **Umsetzbarkeit des Projektes**
 ---
