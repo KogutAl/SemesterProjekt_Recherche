@@ -1,8 +1,8 @@
 # Interaktive Detektivarbeit
 #### (*Semesterendprojekt SoSe22 - Physical Computing*)
- &nbsp;
 
-
+  &nbsp;
+  
 ---
 ### **Konzept**
 ---
@@ -74,6 +74,7 @@ Genaue Funktionsweise:
 Die Geschichte hat 4 Sektionen, welche jeweils mit 4 visuell, virtuellen Räumen innerhalb des Opferhauses erfahren werden kann. Das Haus wurde nach Vorbild der Räume gebaut, in der die häusliche Misshandlung stattfand.
 Die Audioaufnahmen jeder dieser Sektion werden durch angebrachte Lautpsrecher abgespielt, indem die Silhouette der Frau in einer bestimmten Reihenfolge berührt wird.
 Die Erzählerstimme stammt von dem Gewaltopfer selbst und die abgespielten Sounds behinhalten übliche Geräusche. die bei Gewalttaten aufkommen, um dem Zuhörer einen möglichst realitätsnahen Einblick zu ermöglichen.Zuhörer erfahren die Geschichte über mehrere Sinne und verfolgen das Leid des Opfers, als auch den Moment der lang ersehnten Freiheit.
+
  &nbsp;
  
 ---
@@ -89,6 +90,8 @@ In diesem Projekt hat die Kreatorin nicht nur das interaktive Storytelling in Fo
 
 Trotz offensichtlichen Aufwandsunterschied ist das Projekt dennoch interessant für mich, da die Kreatorin ein interaktives Audiosystem eingebunden hat. Durch die Aktivierung von Schaltern, welche repräsentativ für die Kapitel der Geschichte stehen, kann der User entscheiden, welche Tonspuren wann abgespielt werden.
 
+ &nbsp;
+ 
 ---
 ### **Dokumentation - Gut & Schlecht**
 ---
@@ -96,6 +99,7 @@ Trotz offensichtlichen Aufwandsunterschied ist das Projekt dennoch interessant f
 Die Kreatorin Min Kwak hat sowohl ein paar Videos der Nutzung, sowie eine Vorstellungswebsite des Projektes veröffentlicht. 
 Allerdings werden in den Videos lediglich die Nutzung veranschaulicht und die Website dokumentiert das technische Vorgehen sehr oberflächlich und dient wohl eher nur um Interessenten auf das Projekt aufmerksam zu machen. 
 Eine technische Dokumentation, wie zum Beispiel die Zusammensätzung und Verbindung der verwendeten Komponenten, sowie die Programmierung werden komplett ausgelassen.
+
  &nbsp;
  
 ---
@@ -108,6 +112,8 @@ Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interakt
 
 [Projektvideos](https://www.youtube.com/watch?v=uJUv6X8mDUM)
  &nbsp;
+ 
+  &nbsp;
  
 ---
 ### **Nutzung des Tiptoi-Systems** (*Hobbyrecherche auf Github*)
@@ -123,6 +129,7 @@ Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interakt
 Tiptoi ist ein interaktives Lernspiel bestehend aus einem Digitalstift und einem Spielbrett, Buch oder Puzzle mit digitalem Papier. Der Stift wird auf verschiedene Stellen der bedruckten Oberfläche gehalten und erkennt am Punktraster des OID, welche Stelle angetippt wurde.
 Das Projekt befasst sich mit einer Analyse des Tiptoi-Stiftes, wie die Zusammensetzung des einzelenen Elemente und die Programmierung dieser.
 Beschreibung der Projektbeteiligten :"The current status is that we understood most of the file format (see the GME file format specification). We provide a tool that allows you to dissect these files. The tool can also be used to generate completely new files from scratch; see below for details."
+
  &nbsp;
  
 ---
@@ -132,18 +139,21 @@ Beschreibung der Projektbeteiligten :"The current status is that we understood m
 **Unterschiede**
 
 Auf der einen Seite wird das Output der Story versimpelt, da diese primär durch das Berühren durch Stellen eines Bilderbuches stattfinden.
-
+ &nbsp;
 
 **Übereinstimmungen**
 
 Das Grundprinzip ist jedoch das gleiche, da es durch die Aktivierung von Sensoren eine Tonspur abspielt.
 
+ &nbsp;
+ 
 ---
 ### **Dokumentation - Gut & Schlecht**
 ---
 
 Dank der Dokumentation einer Hobby-Enthusiasten kann ich mich auch mit der Zusammensetzung des Codes befassen. 
 Der einzige Nachteil ist, dass dies keine offiziellen Daten der Firma Ravensburger sind und diese eventuell unklar sein könnten oder in der Funktion abweichen.
+
  &nbsp;
  
 ---
@@ -151,12 +161,13 @@ Der einzige Nachteil ist, dass dies keine offiziellen Daten der Firma Ravensburg
 ---
 
 Die Umsetzung scheint mir mit diesem Prinzip sehr machbar und somit realistisch zu sein. Ich werde ich höchstwarscheinlich sehr viel mit dem öffentlich zur Verfügung gestellten Codes auf Git-Hub auseinandersetzen.
+
  &nbsp;
 
 [Git-Hub Dokumentation](https://github.com/entropia/tip-toi-reveng)
+
  &nbsp;
  
- &nbsp;
 ---
 # Alternatives Projekt - RGB Sensor
 #### (*Ein Projekt von User "thinklearndo"*) 
