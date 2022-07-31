@@ -61,8 +61,9 @@ Genaue Funktionsweise:
 ### **Silence Breaker: One Survivors Story** (*Audiovisuelles Storytelling Projekt von Min Kwak*)
 ---
 
-![Gespannter Stoff mit eingenähtem Leitfähigen Faden](https://images.squarespace-cdn.com/content/v1/5c36db7296e76f097022a8db/1547368627605-WBVDC0X0UY6A8ILRA00L/IMG_1538.JPG?format=750w)
-
+ &nbsp;
+![Gespannter Stoff mit eingenähtem Leitfähigen Faden](https://pics.computerbase.de/8/6/1/4/3/article-1280x720.19d94ade.jpg)
+ &nbsp;
 ---
 ### **Konzept**
 ---
@@ -108,6 +109,8 @@ Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interakt
 ### **Nutzung des Tiptoi-Systems** (*Hobbyrecherche auf Github*)
 ---
 
+![Gespannter Stoff mit eingenähtem Leitfähigen Faden](https://images.squarespace-cdn.com/content/v1/5c36db7296e76f097022a8db/1547368627605-WBVDC0X0UY6A8ILRA00L/IMG_1538.JPG?format=750w)
+
 ---
 ### **Konzept/Funtkion**
 ---
@@ -146,7 +149,7 @@ Die Umsetzung scheint mir mit diesem Prinzip sehr machbar und somit realistisch 
 [Git-Hub Dokumentation](https://github.com/entropia/tip-toi-reveng)
  &nbsp;
  
- 
+ &nbsp;
 ---
 # Alternatives Projekt - RGB Sensor
 #### (*Ein Projekt von User "thinklearndo"*) 
