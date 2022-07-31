@@ -9,7 +9,9 @@
 Schlüpfe in die Rolle des Detektiven XY und löse den Mord, der sich innerhalb eines Raum abgespielt hat. 
 Alle Antworten befinden sich in diesem einen Zimmer. Suche nach Hinweisen und untersuche diese, um Tonspuren oder visuelle Effekte zu aktivieren, die auf die Aufklärung deuten könnten.
 Damit der Detektiv eine logische Gedankenkette bilden kann, ist es wichtig die Komponenten in der korreten Abfolge zu untersuchen.
+
  &nbsp;
+ 
 ---
 ### **Welche Funktionen soll es geben?**
 ---
@@ -56,7 +58,6 @@ Genaue Funktionsweise:
  &nbsp;
 ---
 # Ähnliche Projekte
- &nbsp;
 ---
 ### **Silence Breaker: One Survivors Story** (*Audiovisuelles Storytelling Projekt von Min Kwak*)
 ---
@@ -64,6 +65,7 @@ Genaue Funktionsweise:
  &nbsp;
 ![Gespannter Stoff mit eingenähtem Leitfähigen Faden](https://images.squarespace-cdn.com/content/v1/5c36db7296e76f097022a8db/1547368627605-WBVDC0X0UY6A8ILRA00L/IMG_1538.JPG?format=750w)
  &nbsp;
+ 
 ---
 ### **Konzept**
 ---
@@ -73,6 +75,7 @@ Die Geschichte hat 4 Sektionen, welche jeweils mit 4 visuell, virtuellen Räumen
 Die Audioaufnahmen jeder dieser Sektion werden durch angebrachte Lautpsrecher abgespielt, indem die Silhouette der Frau in einer bestimmten Reihenfolge berührt wird.
 Die Erzählerstimme stammt von dem Gewaltopfer selbst und die abgespielten Sounds behinhalten übliche Geräusche. die bei Gewalttaten aufkommen, um dem Zuhörer einen möglichst realitätsnahen Einblick zu ermöglichen.Zuhörer erfahren die Geschichte über mehrere Sinne und verfolgen das Leid des Opfers, als auch den Moment der lang ersehnten Freiheit.
  &nbsp;
+ 
 ---
 ### **Ähnlichkeiten & Unterschiede im Vergleich meines Konzeptes**
 ---
@@ -93,8 +96,8 @@ Trotz offensichtlichen Aufwandsunterschied ist das Projekt dennoch interessant f
 Die Kreatorin Min Kwak hat sowohl ein paar Videos der Nutzung, sowie eine Vorstellungswebsite des Projektes veröffentlicht. 
 Allerdings werden in den Videos lediglich die Nutzung veranschaulicht und die Website dokumentiert das technische Vorgehen sehr oberflächlich und dient wohl eher nur um Interessenten auf das Projekt aufmerksam zu machen. 
 Eine technische Dokumentation, wie zum Beispiel die Zusammensätzung und Verbindung der verwendeten Komponenten, sowie die Programmierung werden komplett ausgelassen.
-
  &nbsp;
+ 
 ---
 ### **Umsetzbarkeit des Projektes**
 ---
@@ -105,6 +108,7 @@ Da ich vorhabe den 3-D Teil komplett außer Acht zu lassen, scheint das interakt
 
 [Projektvideos](https://www.youtube.com/watch?v=uJUv6X8mDUM)
  &nbsp;
+ 
 ---
 ### **Nutzung des Tiptoi-Systems** (*Hobbyrecherche auf Github*)
 ---
@@ -120,6 +124,7 @@ Tiptoi ist ein interaktives Lernspiel bestehend aus einem Digitalstift und einem
 Das Projekt befasst sich mit einer Analyse des Tiptoi-Stiftes, wie die Zusammensetzung des einzelenen Elemente und die Programmierung dieser.
 Beschreibung der Projektbeteiligten :"The current status is that we understood most of the file format (see the GME file format specification). We provide a tool that allows you to dissect these files. The tool can also be used to generate completely new files from scratch; see below for details."
  &nbsp;
+ 
 ---
 ### **Ähnlichkeiten & Unterschiede im Vergleich meines Konzeptes**
 ---
@@ -139,8 +144,8 @@ Das Grundprinzip ist jedoch das gleiche, da es durch die Aktivierung von Sensore
 
 Dank der Dokumentation einer Hobby-Enthusiasten kann ich mich auch mit der Zusammensetzung des Codes befassen. 
 Der einzige Nachteil ist, dass dies keine offiziellen Daten der Firma Ravensburger sind und diese eventuell unklar sein könnten oder in der Funktion abweichen.
-
  &nbsp;
+ 
 ---
 ### **Umsetzbarkeit des Projektes**
 ---
