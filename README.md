@@ -150,8 +150,8 @@ Die Umsetzung scheint mir mit diesem Prinzip sehr machbar und somit realistisch 
 ---
 # Alternatives Projekt - RGB Sensor
 #### (*Ein Projekt von User "thinklearndo"*) 
-&nbsp;
 ---
+&nbsp;
 
 
 ![Sensor und RGB Stern](https://cdn-blog.adafruit.com/uploads/2022/07/Untitledx-58.png)
