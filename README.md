@@ -10,6 +10,8 @@ Schlüpfe in die Rolle des Detektiven XY und löse den Mord, der sich innerhalb 
 Alle Antworten befinden sich in diesem einen Zimmer. Suche nach Hinweisen und untersuche diese, um Tonspuren oder visuelle Effekte zu aktivieren, die auf die Aufklärung deuten könnten.
 Damit der Detektiv eine logische Gedankenkette bilden kann, ist es wichtig die Komponenten in der korreten Abfolge zu untersuchen.
 
+*Diese Konzeptbeschreibung erscheint auch im Endabgaben Repository*
+
  &nbsp;
  
 ---
